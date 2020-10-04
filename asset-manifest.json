@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CatchEmAll/static/css/main.61006acf.chunk.css",
+    "main.js": "/CatchEmAll/static/js/main.74dfca91.chunk.js",
+    "main.js.map": "/CatchEmAll/static/js/main.74dfca91.chunk.js.map",
+    "runtime-main.js": "/CatchEmAll/static/js/runtime-main.50906ac9.js",
+    "runtime-main.js.map": "/CatchEmAll/static/js/runtime-main.50906ac9.js.map",
+    "static/js/2.fec5c6c6.chunk.js": "/CatchEmAll/static/js/2.fec5c6c6.chunk.js",
+    "static/js/2.fec5c6c6.chunk.js.map": "/CatchEmAll/static/js/2.fec5c6c6.chunk.js.map",
+    "index.html": "/CatchEmAll/index.html",
+    "precache-manifest.e539b065d30f026679fbf4aa5e6874c3.js": "/CatchEmAll/precache-manifest.e539b065d30f026679fbf4aa5e6874c3.js",
+    "service-worker.js": "/CatchEmAll/service-worker.js",
+    "static/css/main.61006acf.chunk.css.map": "/CatchEmAll/static/css/main.61006acf.chunk.css.map",
+    "static/js/2.fec5c6c6.chunk.js.LICENSE.txt": "/CatchEmAll/static/js/2.fec5c6c6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CatchEmAll/static/media/pokemon-logo.8f80a92d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50906ac9.js",
+    "static/js/2.fec5c6c6.chunk.js",
+    "static/css/main.61006acf.chunk.css",
+    "static/js/main.74dfca91.chunk.js"
+  ]
+}
