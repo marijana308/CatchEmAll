@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "img": "Bulbasaur",
+    "src": "./assets/images/Bulbasaur.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "img": "Charmander",
+    "src": "./assets/images/Charmander.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "img": "Squirtle",
+    "src": "./assets/images/Squirtle.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "img": "Caterpie",
+    "src": "./assets/images/Caterpie.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "img": "Diglett",
+    "src": "./assets/images/Diglett.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "img": "Jigglypuff",
+    "src": "./assets/images/Jigglypuff.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "img": "Pikachu",
+    "src": "./assets/images/Pikachu.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "img": "Psyduck",
+    "src": "./assets/images/Psyduck.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "img": "Togepi",
+    "src": "./assets/images/Togepi.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "img": "Totodile",
+    "src": "./assets/images/Totodile.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "img": "Vulpix",
+    "src": "./assets/images/Vulpix.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "img": "Abra",
+    "src": "./assets/images/Abra.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "img": "Bellsprout",
+    "src": "./assets/images/Bellsprout.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "img": "Chikorita",
+    "src": "./assets/images/Chikorita.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "img": "Cyndaquil",
+    "src": "./assets/images/Cyndaquil.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "img": "Dratini",
+    "src": "./assets/images/Dratini.png",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "img": "Eevee",
+    "src": "./assets/images/Eevee.png",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "img": "Magikarp",
+    "src": "./assets/images/Magikarp.png",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "img": "Poliwag",
+    "src": "./assets/images/Poliwag.png",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "img": "Ponyta",
+    "src": "./assets/images/Ponyta.png",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "img": "Beedrill",
+    "src": "./assets/images/Beedrill.png",
+    "clicked": false
+  },
+  {
+    "id": 22,
+    "img": "Celebi",
+    "src": "./assets/images/Celebi.png",
+    "clicked": false
+  },
+  {
+    "id": 23,
+    "img": "Corsola",
+    "src": "./assets/images/Corsola.png",
+    "clicked": false
+  },
+  {
+    "id": 24,
+    "img": "Cubone",
+    "src": "./assets/images/Cubone.png",
+    "clicked": false
+  },
+  {
+    "id": 25,
+    "img": "Ditto",
+    "src": "./assets/images/Ditto.png",
+    "clicked": false
+  },
+  {
+    "id": 26,
+    "img": "Espeon",
+    "src": "./assets/images/Espeon.png",
+    "clicked": false
+  },
+  {
+    "id": 27,
+    "img": "Grimer",
+    "src": "./assets/images/Grimer.png",
+    "clicked": false
+  },
+  {
+    "id": 28,
+    "img": "Hitmonlee",
+    "src": "./assets/images/Hitmonlee.png",
+    "clicked": false
+  },
+  {
+    "id": 29,
+    "img": "Jynx",
+    "src": "./assets/images/Jynx.png",
+    "clicked": false
+  },
+  {
+    "id": 30,
+    "img": "Koffing",
+    "src": "./assets/images/Koffing.png",
+    "clicked": false
+  },
+  {
+    "id": 31,
+    "img": "Magnemite",
+    "src": "./assets/images/Magnemite.png",
+    "clicked": false
+  },
+  {
+    "id": 32,
+    "img": "Mareep",
+    "src": "./assets/images/Mareep.png",
+    "clicked": false
+  },
+  {
+    "id": 33,
+    "img": "Meowth",
+    "src": "./assets/images/Meowth.png",
+    "clicked": false
+  },
+  {
+    "id": 34,
+    "img": "Mew",
+    "src": "./assets/images/Mew.png",
+    "clicked": false
+  },
+  {
+    "id": 35,
+    "img": "Mewtwo",
+    "src": "./assets/images/Mewtwo.png",
+    "clicked": false
+  },
+  {
+    "id": 36,
+    "img": "Misdreavus",
+    "src": "./assets/images/Misdreavus.png",
+    "clicked": false
+  },
+  {
+    "id": 37,
+    "img": "Mr Mime",
+    "src": "./assets/images/MrMime.png",
+    "clicked": false
+  },
+  {
+    "id": 38,
+    "img": "Oddish",
+    "src": "./assets/images/Oddish.png",
+    "clicked": false
+  },
+  {
+    "id": 39,
+    "img": "Pichu",
+    "src": "./assets/images/Pichu.png",
+    "clicked": false
+  },
+  {
+    "id": 40,
+    "img": "Pidgey",
+    "src": "./assets/images/Pidgey.png",
+    "clicked": false
+  },
+  {
+    "id": 41,
+    "img": "Rattata",
+    "src": "./assets/images/Rattata.png",
+    "clicked": false
+  },
+  {
+    "id": 42,
+    "img": "Seel",
+    "src": "./assets/images/Seel.png",
+    "clicked": false
+  },
+  {
+    "id": 43,
+    "img": "Sentret",
+    "src": "./assets/images/Sentret.png",
+    "clicked": false
+  },
+  {
+    "id": 44,
+    "img": "Slowpoke",
+    "src": "./assets/images/Slowpoke.png",
+    "clicked": false
+  },
+  {
+    "id": 45,
+    "img": "Snorlax",
+    "src": "./assets/images/Snorlax.png",
+    "clicked": false
+  },
+  {
+    "id": 46,
+    "img": "Staryu",
+    "src": "./assets/images/Staryu.png",
+    "clicked": false
+  },
+  {
+    "id": 47,
+    "img": "Unown",
+    "src": "./assets/images/Unown.png",
+    "clicked": false
+  },
+  {
+    "id": 48,
+    "img": "Venonat",
+    "src": "./assets/images/Venonat.png",
+    "clicked": false
+  },
+  {
+    "id": 49,
+    "img": "Voltorb",
+    "src": "./assets/images/Voltorb.png",
+    "clicked": false
+  },
+  {
+    "id": 50,
+    "img": "Zubat",
+    "src": "./assets/images/Zubat.png",
+    "clicked": false
+  }
+]
